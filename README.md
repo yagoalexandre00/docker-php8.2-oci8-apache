@@ -2,7 +2,7 @@
 
 This image is built on the [official PHP docker image](https://hub.docker.com/_/php/)
 
-It contains PHP 7, Apache 2, Oracle's OCI8 extension.
+It contains PHP 8, Apache 2, Oracle's OCI8 extension.
 
 You can use it to connect your docker instance with Oracle DB.
 
