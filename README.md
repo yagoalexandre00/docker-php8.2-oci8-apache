@@ -1,4 +1,4 @@
-# Docker php8-oci8-apache
+# Docker php8.2-oci8-apache
 
 This image is built on the [official PHP docker image](https://hub.docker.com/_/php/)
 
